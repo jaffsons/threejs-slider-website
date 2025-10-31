@@ -1,4 +1,3 @@
-```markdown
 # Three.js Slider Website
 
 A minimal, one-page web development showcase tailored for the Pakistani audience. The hero section contains a GPU-accelerated image slider implemented with three.js (plane mesh texture crossfade) and the page includes sections for About, Services, and Contact.
@@ -133,4 +132,3 @@ This project does not include a LICENSE file by default. If you want to open-sou
 
 - three.js — https://threejs.org
 - Unsplash — sample images used in the demo
-```
