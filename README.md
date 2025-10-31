@@ -132,3 +132,4 @@ This project does not include a LICENSE file by default. If you want to open-sou
 
 - three.js — https://threejs.org
 - Unsplash — sample images used in the demo
+- By S. Jaffar ( Web Developer )
