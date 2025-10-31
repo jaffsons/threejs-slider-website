@@ -1,0 +1,17 @@
+{
+  "name": "threejs-ngo-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for an NGO using Three.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "three": "^0.135.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "jaffsons",
+  "license": "ISC"
+}
